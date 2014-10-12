@@ -8,5 +8,9 @@
 */
 
 public class SquareRootChecker {
+	
+	public static void main(String[] args) {
+		// TODO - Put your code here
+	}
 
 }
